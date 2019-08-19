@@ -21,6 +21,7 @@ class MY_Controller extends CI_Controller {
         //helper
         $this->load->helper('listcode_helper');
         $this->load->helper('message_helper');
+        
 
     }
    
